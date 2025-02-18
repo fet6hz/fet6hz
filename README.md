@@ -7,7 +7,7 @@
                                 ██    █████  ███  ▒▒▒▒▒▒ ██ ██ ██████
                                 --------------------------------------
 ```
-<div style="font-family: Consolas,monospace;font-size:14px;white-space: pre;background-color: #ffffff; color: #e01b24;"><div>█████ █████ █████ ▒▒▒▒▒▒ ██ ██ ██████</div><div>██    ██     ███  ▒▒     ██ ██    ███</div><div>█████ █████  ███  ▒▒▒▒▒▒ █████  ████ </div><div>██    ██     ███  ▒▒  ▒▒ ██ ██ ███   </div><div>██    █████  ███  ▒▒▒▒▒▒ ██ ██ ██████</div></div>
+
   <!--
 **fet6hz/fet6hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
