@@ -1,4 +1,4 @@
-<arctile>
+``` ascii
 --------------------------------------
 █████ █████ █████ ▒▒▒▒▒▒ ██ ██ ██████
 ██    ██     ███  ▒▒     ██ ██    ███
@@ -6,7 +6,7 @@
 ██    ██     ███  ▒▒  ▒▒ ██ ██ ███   
 ██    █████  ███  ▒▒▒▒▒▒ ██ ██ ██████
 --------------------------------------
-</arctile>
+```
   <!--
 **fet6hz/fet6hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
